@@ -1,2 +1,2 @@
-# beautiful-small-page
-# for PC and mobile
+## beautiful-small-page
+### for PC and mobile
